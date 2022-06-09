@@ -26,7 +26,7 @@ Contact: 0797950827
 
 ## Super User Credentials
 Username: jacky
-Password: jacky
+Password: jack
 
 ## Live Link
 https://instaview606.herokuapp.com/
