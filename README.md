@@ -25,7 +25,8 @@ Email: mungaturner140@gmail.com
 Contact: 0797950827
 
 ## Super User Credentials
-Username: 
-Password: 
+Username: jacky
+Password: jacky
 
 ## Live Link
+https://instaview606.herokuapp.com/
