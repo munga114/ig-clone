@@ -4,7 +4,7 @@
 Mungai Mbugua
 
 ## Description
-An instagram clone that allows users to sign in to the application to start using. A user can upload their pictures to the application, see their profile with all pictures posted. They can also follow other users and see their pictures on the timeline, like a picture and leave a comment on it.
+An instagram clone that allows users to sign in to the application and start using it. A user can upload their pictures to the application, see their profile with all pictures posted. They can also follow other users and see their pictures on the timeline, like a picture and leave a comment on it.
 
 ## Project setup instructions
 * Fork the Repo from my github account: https://github.com/Abishag-Maitha/WeShare
