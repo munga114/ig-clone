@@ -1,7 +1,7 @@
 ## NewsWeShare
 
 ## Author
-Abishag Maitha
+Mungai Mbugua
 
 ## Description
 An instagram clone that allows users to sign in to the application to start using. A user can upload their pictures to the application, see their profile with all pictures posted. They can also follow other users and see their pictures on the timeline, like a picture and leave a comment on it.
@@ -32,4 +32,3 @@ Username: Abishag
 Password: pendo123
 
 ## Live Link
-newsweshare.herokuapp.com/
