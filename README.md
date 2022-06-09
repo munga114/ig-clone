@@ -25,7 +25,7 @@ Email: mungaturner140@gmail.com
 Contact: 0797950827
 
 ## Super User Credentials
-Username: Abishag
-Password: pendo123
+Username: 
+Password: 
 
 ## Live Link
