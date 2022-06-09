@@ -21,7 +21,7 @@ An instagram clone that allows users to sign in to the application and start usi
 * PostgreSQL
 
 ## Author's Information
-Email: abishag.maitha@student.moringaschool.com
+Email: mungaturner140@gmail.com
 Contact: 0719816825
 
 ## Super User Credentials
