@@ -114,7 +114,7 @@ ALLOWED_HOSTS = config('ALLOWED_HOSTS')
 
 cloudinary.config( 
   cloud_name =config('CLOUD_NAME'), 
-  api_key =config('API_KEY', cast=int), 
+  api_key =config('API_KEY'), 
   api_secret = config('API_SECRET'),
 )
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
