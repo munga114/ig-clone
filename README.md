@@ -20,9 +20,6 @@ An instagram clone that allows users to sign in to the application and start usi
 * Bootstrap
 * PostgreSQL
 
-## MIT LICENSE
-
-
 ## Author's Information
 Email: abishag.maitha@student.moringaschool.com
 Contact: 0719816825
