@@ -22,7 +22,7 @@ An instagram clone that allows users to sign in to the application and start usi
 
 ## Author's Information
 Email: mungaturner140@gmail.com
-Contact: 0719816825
+Contact: 0797950827
 
 ## Super User Credentials
 Username: Abishag
