@@ -1,4 +1,4 @@
-## NewsWeShare
+## Instaclone
 
 ## Author
 Mungai Mbugua
